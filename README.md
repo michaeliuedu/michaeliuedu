@@ -1,5 +1,6 @@
 #### Overview
 Computer Science @ Carnegie Mellon University
+
 Dallas, TX | Pittsburgh, PA
 
 #### Languages
